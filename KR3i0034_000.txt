@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 范村菊譜
-#+DATE: 2015-08-24 23:18:23.123552
-#+PROPERTY: ID KR3i0034
-#+PROPERTY: BASEEDITION WYG    
